@@ -46,9 +46,16 @@ Pls join this slack channel to ask questions regarding the topics provided.
 
 ## Robotics
 
-1. A* search
-2. PID Controller
-3. Common Tricks for Occupany Grid
+1. Path Finding Algorithms
+a. A* Search Algorithm 
+- https://www.youtube.com/watch?v=vP5TkF0xJgI
+- https://www.youtube.com/watch?v=eSOJ3ARN5FM
+b. Breath First Search
+- https://www.youtube.com/watch?v=hettiSrJjM4
+c. Depth First Search
+- https://www.youtube.com/watch?v=W9F8fDQj7Ok
+4. PID Controller
+5. Common Tricks for Occupany Grid
 
 ## General 
 
@@ -57,3 +64,8 @@ Pls join this slack channel to ask questions regarding the topics provided.
 - ONNX Runtime is a cross-platform machine-learning model accelerator, with a flexible interface to integrate hardware-specific libraries. 
 - ONNX Runtime can be used with models from PyTorch, Tensorflow/Keras, TFLite, scikit-learn, and other frameworks.
 
+
+Credits to 
+1. GreeksforGreeks
+2. Onnx
+3. 
