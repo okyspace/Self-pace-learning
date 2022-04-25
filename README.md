@@ -1,4 +1,6 @@
 # Useful Computer Vision, Natural Language Processing and Robotics Videos for Self-Pace Learning
+The topics are proposed for a targeted learning to bring you up to speed for the AI Qualifiers and Robotics Finals. 
+
 Pls join this slack channel to ask questions regarding the topics provided. 
 - <qna_slack_channel>
 - Q&A starts from 23May to 27May, from 0930 to 530pm daily
@@ -50,10 +52,13 @@ Pls join this slack channel to ask questions regarding the topics provided.
 a. A* Search Algorithm 
 - https://www.youtube.com/watch?v=vP5TkF0xJgI
 - https://www.youtube.com/watch?v=eSOJ3ARN5FM
+
 b. Breath First Search
 - https://www.youtube.com/watch?v=hettiSrJjM4
+
 c. Depth First Search
 - https://www.youtube.com/watch?v=W9F8fDQj7Ok
+
 4. PID Controller
 5. Common Tricks for Occupany Grid
 
@@ -68,4 +73,3 @@ c. Depth First Search
 Credits to 
 1. GreeksforGreeks
 2. Onnx
-3. 
