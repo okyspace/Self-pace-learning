@@ -1,4 +1,7 @@
-# Useful Computer Vision, Natural Language Processing and Robotics Videos for Self-Learn
+# Useful Computer Vision, Natural Language Processing and Robotics Videos for Self-Pace Learning
+Pls join this slack channel to ask questions regarding the topics provided. 
+- <qna_slack_channel>
+- Q&A starts from 23May to 27May, from 0930 to 530pm daily
 
 ## Computer Vision
 
