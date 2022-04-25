@@ -49,4 +49,8 @@
 
 ## General 
 
-1. Conversion to ONNX
+1. Conversion of Models to ONNX (Open Neural Network Exchange)
+- Learn to convert your models to ONNX format to run on ONNX Runtime. https://onnxruntime.ai/docs/
+- ONNX Runtime is a cross-platform machine-learning model accelerator, with a flexible interface to integrate hardware-specific libraries. 
+- ONNX Runtime can be used with models from PyTorch, Tensorflow/Keras, TFLite, scikit-learn, and other frameworks.
+
