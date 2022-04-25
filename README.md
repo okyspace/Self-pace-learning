@@ -49,6 +49,7 @@ Pls join this slack channel to ask questions regarding the topics provided.
 ## Robotics
 
 1. Path Finding Algorithms
+
 a. A* Search Algorithm 
 - https://www.youtube.com/watch?v=vP5TkF0xJgI
 - https://www.youtube.com/watch?v=eSOJ3ARN5FM
@@ -60,7 +61,11 @@ c. Depth First Search
 - https://www.youtube.com/watch?v=W9F8fDQj7Ok
 
 4. PID Controller
-5. Common Tricks for Occupany Grid
+
+
+5. Occupancy Map
+- What is an occupancy map? https://www.youtube.com/watch?v=8ckhPViqneg
+- Common Tricks for Occupany Grid
 
 ## General 
 
