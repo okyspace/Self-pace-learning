@@ -65,7 +65,9 @@ c. Depth First Search
 
 5. Occupancy Map
 - What is an occupancy map? https://www.youtube.com/watch?v=8ckhPViqneg
+  - note: our occupancy map is binary only, i.e. occupied or not, no probability. 
 - Common Tricks for Occupany Grid
+  - https://www.youtube.com/watch?v=-F20DZhzbEs focus on distance transforms, dilation
 
 ## General 
 
